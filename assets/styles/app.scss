@@ -1,10 +1,13 @@
+@import "~bootstrap/scss/bootstrap";
+
+
 * {
   box-sizing: border-box;
 }
 
 body {
-  margin: 0;
-  background-color: #fff;
+  margin: 3%;
+  background-color: lightgrey;
 }
 
 .column {
